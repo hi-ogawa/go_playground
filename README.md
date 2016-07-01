@@ -18,7 +18,7 @@ $ go run p10310/main.go < p10310/sample.input
 Testing:
 
 ```
-$ go test github.com/hi-ogawa/playground/p10310
+$ go test -v github.com/hi-ogawa/playground/p10310
 ```
 
 Testing in Docker:
