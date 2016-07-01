@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hi-ogawa/go_playground.svg?branch=master)](https://travis-ci.org/hi-ogawa/go_playground)
+
 ### Go Playground
 
 Development:
