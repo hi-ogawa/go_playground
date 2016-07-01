@@ -56,7 +56,7 @@ func distance(p, q P) float64 {
 func formatOutput(p P, ok bool) string {
   if ok {
     return fmt.Sprintf(
-      "The gopher can escape through the hole at (%f, %f).\n",
+      "The gopher can escape through the hole at (%.3f,%.3f).\n",
       p.x, p.y,
     )
   } else {
