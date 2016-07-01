@@ -12,3 +12,9 @@ Testing:
 ```
 $ go test github.com/hi-ogawa/playground/<directory name>
 ```
+
+Testing in Docker:
+
+```
+$ docker-compose run --rm test
+```
